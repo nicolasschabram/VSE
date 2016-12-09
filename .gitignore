@@ -218,3 +218,7 @@ playground/Nicolas/clean_test.csv
 playground/Nicolas/.ipynb_checkpoints/Nicolas-checkpoint.ipynb
 playground/Nicolas/clean_train.csv
 playground/Nicolas/.ipynb_checkpoints/Nicolas-checkpoint.ipynb
+
+
+# Jupyter Notebook
+.ipynb_checkpoints

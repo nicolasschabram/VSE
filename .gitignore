@@ -215,3 +215,5 @@ pip-log.txt
 .mr.developer.cfg
 playground/Nicolas/.ipynb_checkpoints/Nicolas-checkpoint.ipynb
 playground/Nicolas/clean_test.csv
+playground/Nicolas/.ipynb_checkpoints/Nicolas-checkpoint.ipynb
+playground/Nicolas/clean_train.csv

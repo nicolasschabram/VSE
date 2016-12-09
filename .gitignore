@@ -224,3 +224,4 @@ playground/Nicolas/.ipynb_checkpoints/Nicolas-checkpoint.ipynb
 .ipynb_checkpoints
 playground/Nicolas/submission.csv
 playground/Nicolas/submission_linear_regression.csv
+playground/Nicolas/submission_random_forest_regressor.csv

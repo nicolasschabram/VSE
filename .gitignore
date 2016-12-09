@@ -213,3 +213,5 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+playground/Nicolas/.ipynb_checkpoints/Nicolas-checkpoint.ipynb
+playground/Nicolas/clean_test.csv

@@ -213,3 +213,15 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+playground/Nicolas/.ipynb_checkpoints/Nicolas-checkpoint.ipynb
+playground/Nicolas/clean_test.csv
+playground/Nicolas/.ipynb_checkpoints/Nicolas-checkpoint.ipynb
+playground/Nicolas/clean_train.csv
+playground/Nicolas/.ipynb_checkpoints/Nicolas-checkpoint.ipynb
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+playground/Nicolas/submission.csv
+playground/Nicolas/submission_linear_regression.csv
+playground/Nicolas/submission_random_forest_regressor.csv

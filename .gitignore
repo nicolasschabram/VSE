@@ -222,17 +222,6 @@ playground/Nicolas/.ipynb_checkpoints/Nicolas-checkpoint.ipynb
 
 # Jupyter Notebook
 .ipynb_checkpoints
-playground/Nicolas/submission.csv
-playground/Nicolas/submission_linear_regression.csv
-playground/Nicolas/submission_random_forest_regressor.csv
-playground/Nicolas/submission_ridge_regression.csv
 playground/Pauline/clean_test.csv
 playground/Pauline/clean_test.csv
-playground/Pauline/submission_linear_regression.csv
-playground/Pauline/submission_linear_regression.csv
-playground/Nicolas/submission_adaboost.csv
-playground/Nicolas/submission_lasso_regression.csv
-playground/Nicolas/submission_mixed.csv
-playground/Nicolas/submission_mixed_regression.csv
-playground/Nicolas/submission_mixed_mean.csv
-playground/Nicolas/submission_mixed_random_forest.csv
+playground/Nicolas/submissions/
